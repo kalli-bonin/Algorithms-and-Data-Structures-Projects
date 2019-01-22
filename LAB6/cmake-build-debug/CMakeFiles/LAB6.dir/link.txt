@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/LAB6.dir/InterpersonalAffinity.cpp.o CMakeFiles/LAB6.dir/InterpersonalAffinityTest.cpp.o  -o LAB6 
